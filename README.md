@@ -1,14 +1,12 @@
 ### Olá! Eu sou o Rômulo Castro<div>
  
-
-- 🔭 Hoje busco trabalhar com front-end
 - 🌱 Estudando Engenharia de Software
 - 👯 Contate-me no e-mail: romulo2015castro@gmail.com
 
 <div>
   <a href="https://github.com/Romulo-Castro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Romulo-Castro&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Castro&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Romulo-Castro&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-Castro&layout=compact&langs_count=7&theme=light"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -16,7 +14,7 @@
   <img align="center" alt="Romulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Romulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Romulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Romulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
     
 ##
   
