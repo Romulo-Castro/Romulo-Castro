@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Rômulo Castro<div>
  
 - 🌱 Estudando Engenharia de Software
-- 👯 Contate-me no e-mail: romulo2015castro@gmail.com
 
 <div>
   <a href="https://github.com/Romulo-Castro">
